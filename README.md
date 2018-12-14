@@ -8,5 +8,5 @@ Forgetting about some errand that you had to run? Don't worry, I have got just t
 1. Download the zip-file.
 2. Execute index.html.
 3. Enter the tasks you have to perform on the right section and press enter.
-4. You can view all the tasks to be performed on the left side, check the box to cross them after you are done woth it.
-5. Or delete them if you don't want them there anymore.
+4. You can view all the tasks to be performed on the left section, check the box right next to each task in order to cross that particular task after you are done with it.
+5. Or delete them if you don't want any task to be there anymore.
